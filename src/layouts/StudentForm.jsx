@@ -61,7 +61,7 @@ const StudentForm = () => {
 
         <form className="student-form h-50" onSubmit={handleSubmit(onSubmit)} >
       
-      <h2 className="form-title">Add New Student</h2>
+      <h2 className="form-title">{id ? "Update" : "Add New Student"}</h2>
 
       <input type="text" placeholder="Name" {...register("name")} className="input-field" required />
 
