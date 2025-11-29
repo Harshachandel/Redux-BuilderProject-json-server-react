@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": "994d",
+      "name": "Student 1",
+      "profile": "https://a.storyblok.com/f/191576/1176x882/f95162c213/profile_picture_hero_before.webp",
+      "course": "Web Developer",
+      "fees": "45000",
+      "join_date": "2025-11-20"
+    },
+    {
+      "id": "da10",
+      "name": "Student 2",
+      "profile": "https://images.unsplash.com/photo-1619895862022-09114b41f16f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHx8MHx8fDA%3D",
+      "course": "Ui-UX & Graphic Design",
+      "fees": "35000",
+      "join_date": "2025-11-20"
+    },
+    {
+      "id": "b7f0",
+      "name": "Student 3",
+      "profile": "https://static.vecteezy.com/system/resources/thumbnails/023/886/157/small/young-smiling-businesswoman-standing-in-blur-background-of-office-generative-ai-photo.jpg",
+      "course": "Full Stack Development",
+      "fees": "84000",
+      "join_date": "2025-11-18"
+    }
+  ],
+  "category": [
+    {
+      "id": "e321",
+      "cate_name": "Web Developer"
+    },
+    {
+      "id": "fff6",
+      "cate_name": "Full Stack Development"
+    },
+    {
+      "id": "a4d9",
+      "cate_name": "Ui-UX & Graphic Design"
+    },
+    {
+      "id": "e19c",
+      "cate_name": "App Development"
+    }
+  ]
+}
